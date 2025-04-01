@@ -1,0 +1,1 @@
+{"accuracy": 67.03, "inference_time": 5.434893846511841, "exit_counts": {"Exit1": 0, "Exit2": 0, "Exit3": 0, "Main": 10000}, "exit_accuracy": {"Exit1": 0.0, "Exit2": 0.0, "Exit3": 0.0, "Main": 67.03}}
