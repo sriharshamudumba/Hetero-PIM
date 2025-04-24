@@ -1,0 +1,42 @@
+Early Exit Evaluation - 4 Exits on CIFAR-100
+======================================================================
+
+Thresholds: Exit1 < 0.5, Exit2 < 1.0, Exit3 < 1.5
+Exit1: 38 samples | Acc: 94.74%
+Exit2: 1065 samples | Acc: 92.49%
+Exit3: 5450 samples | Acc: 85.41%
+Exit4: 3447 samples | Acc: 55.18%
+Overall Accuracy: 75.78%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 1.0, Exit2 < 1.5, Exit3 < 2.0
+Exit1: 118 samples | Acc: 87.29%
+Exit2: 2144 samples | Acc: 81.67%
+Exit3: 5325 samples | Acc: 81.15%
+Exit4: 2413 samples | Acc: 48.90%
+Overall Accuracy: 73.55%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 1.5, Exit2 < 2.0, Exit3 < 2.5
+Exit1: 326 samples | Acc: 80.06%
+Exit2: 3293 samples | Acc: 72.43%
+Exit3: 4889 samples | Acc: 77.38%
+Exit4: 1492 samples | Acc: 44.84%
+Overall Accuracy: 70.98%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 2.0, Exit2 < 2.5, Exit3 < 3.0
+Exit1: 815 samples | Acc: 65.15%
+Exit2: 4277 samples | Acc: 66.00%
+Exit3: 4125 samples | Acc: 71.25%
+Exit4: 783 samples | Acc: 40.36%
+Overall Accuracy: 66.09%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 2.5, Exit2 < 3.0, Exit3 < 3.5
+Exit1: 1597 samples | Acc: 55.60%
+Exit2: 5293 samples | Acc: 57.15%
+Exit3: 2889 samples | Acc: 63.41%
+Exit4: 221 samples | Acc: 33.48%
+Overall Accuracy: 58.19%
+----------------------------------------------------------------------

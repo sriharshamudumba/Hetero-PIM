@@ -1,0 +1,50 @@
+Early Exit Evaluation - Detailed Threshold Results on CIFAR-100
+======================================================================
+
+Thresholds: Exit1 < 0.5, Exit2 < 1.0
+Classification Accuracy across exits (on Test set):
+Exit1: 7 samples | Acc: 100.00%
+Exit2: 866 samples | Acc: 96.42%
+Final : 9127 samples | Acc: 79.03%
+Overall Accuracy (All exits): 80.55%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 1.5, Exit2 < 2.0
+Classification Accuracy across exits (on Test set):
+Exit1: 106 samples | Acc: 82.08%
+Exit2: 3137 samples | Acc: 79.98%
+Final : 6757 samples | Acc: 77.18%
+Overall Accuracy (All exits): 78.11%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 2.0, Exit2 < 2.5
+Classification Accuracy across exits (on Test set):
+Exit1: 287 samples | Acc: 62.02%
+Exit2: 4273 samples | Acc: 75.17%
+Final : 5440 samples | Acc: 75.70%
+Overall Accuracy (All exits): 75.08%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 2.5, Exit2 < 3.0
+Classification Accuracy across exits (on Test set):
+Exit1: 632 samples | Acc: 56.33%
+Exit2: 5377 samples | Acc: 70.54%
+Final : 3991 samples | Acc: 73.44%
+Overall Accuracy (All exits): 70.80%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 3.0, Exit2 < 3.5
+Classification Accuracy across exits (on Test set):
+Exit1: 1117 samples | Acc: 48.52%
+Exit2: 6923 samples | Acc: 63.30%
+Final : 1960 samples | Acc: 69.23%
+Overall Accuracy (All exits): 62.81%
+----------------------------------------------------------------------
+
+Thresholds: Exit1 < 3.5, Exit2 < 4.0
+Classification Accuracy across exits (on Test set):
+Exit1: 1939 samples | Acc: 41.41%
+Exit2: 7856 samples | Acc: 56.12%
+Final : 205 samples | Acc: 58.54%
+Overall Accuracy (All exits): 53.32%
+----------------------------------------------------------------------

@@ -1,0 +1,80 @@
+Epoch 1/20
+Train Exit1 Acc: 1.95%, Exit2 Acc: 2.50%, Final Acc: 4.63%
+Test  Exit1 Acc: 3.97%, Exit2 Acc: 4.96%, Final Acc: 11.29%
+----------------------------------------------------------------------
+Epoch 2/20
+Train Exit1 Acc: 4.84%, Exit2 Acc: 7.62%, Final Acc: 20.47%
+Test  Exit1 Acc: 6.10%, Exit2 Acc: 10.11%, Final Acc: 30.72%
+----------------------------------------------------------------------
+Epoch 3/20
+Train Exit1 Acc: 6.73%, Exit2 Acc: 12.63%, Final Acc: 40.16%
+Test  Exit1 Acc: 7.22%, Exit2 Acc: 15.83%, Final Acc: 48.56%
+----------------------------------------------------------------------
+Epoch 4/20
+Train Exit1 Acc: 8.22%, Exit2 Acc: 18.40%, Final Acc: 55.49%
+Test  Exit1 Acc: 8.39%, Exit2 Acc: 22.33%, Final Acc: 61.16%
+----------------------------------------------------------------------
+Epoch 5/20
+Train Exit1 Acc: 9.76%, Exit2 Acc: 23.94%, Final Acc: 63.96%
+Test  Exit1 Acc: 10.62%, Exit2 Acc: 27.58%, Final Acc: 65.96%
+----------------------------------------------------------------------
+Epoch 6/20
+Train Exit1 Acc: 11.24%, Exit2 Acc: 28.81%, Final Acc: 68.52%
+Test  Exit1 Acc: 12.12%, Exit2 Acc: 31.11%, Final Acc: 69.24%
+----------------------------------------------------------------------
+Epoch 7/20
+Train Exit1 Acc: 12.60%, Exit2 Acc: 33.52%, Final Acc: 71.78%
+Test  Exit1 Acc: 13.69%, Exit2 Acc: 35.54%, Final Acc: 72.45%
+----------------------------------------------------------------------
+Epoch 8/20
+Train Exit1 Acc: 13.80%, Exit2 Acc: 37.14%, Final Acc: 74.04%
+Test  Exit1 Acc: 14.24%, Exit2 Acc: 37.54%, Final Acc: 73.41%
+----------------------------------------------------------------------
+Epoch 9/20
+Train Exit1 Acc: 14.66%, Exit2 Acc: 40.36%, Final Acc: 75.53%
+Test  Exit1 Acc: 15.68%, Exit2 Acc: 42.46%, Final Acc: 75.57%
+----------------------------------------------------------------------
+Epoch 10/20
+Train Exit1 Acc: 15.62%, Exit2 Acc: 43.06%, Final Acc: 76.93%
+Test  Exit1 Acc: 17.02%, Exit2 Acc: 43.86%, Final Acc: 76.56%
+----------------------------------------------------------------------
+Epoch 11/20
+Train Exit1 Acc: 16.57%, Exit2 Acc: 45.38%, Final Acc: 78.17%
+Test  Exit1 Acc: 16.81%, Exit2 Acc: 46.08%, Final Acc: 76.64%
+----------------------------------------------------------------------
+Epoch 12/20
+Train Exit1 Acc: 17.63%, Exit2 Acc: 47.68%, Final Acc: 79.20%
+Test  Exit1 Acc: 17.95%, Exit2 Acc: 48.04%, Final Acc: 77.68%
+----------------------------------------------------------------------
+Epoch 13/20
+Train Exit1 Acc: 18.34%, Exit2 Acc: 49.43%, Final Acc: 80.04%
+Test  Exit1 Acc: 18.34%, Exit2 Acc: 49.51%, Final Acc: 78.07%
+----------------------------------------------------------------------
+Epoch 14/20
+Train Exit1 Acc: 19.18%, Exit2 Acc: 51.44%, Final Acc: 80.86%
+Test  Exit1 Acc: 19.51%, Exit2 Acc: 51.74%, Final Acc: 78.56%
+----------------------------------------------------------------------
+Epoch 15/20
+Train Exit1 Acc: 19.86%, Exit2 Acc: 52.81%, Final Acc: 81.64%
+Test  Exit1 Acc: 20.21%, Exit2 Acc: 52.77%, Final Acc: 79.16%
+----------------------------------------------------------------------
+Epoch 16/20
+Train Exit1 Acc: 20.62%, Exit2 Acc: 54.11%, Final Acc: 82.39%
+Test  Exit1 Acc: 20.56%, Exit2 Acc: 53.52%, Final Acc: 79.55%
+----------------------------------------------------------------------
+Epoch 17/20
+Train Exit1 Acc: 21.16%, Exit2 Acc: 55.69%, Final Acc: 83.05%
+Test  Exit1 Acc: 20.77%, Exit2 Acc: 54.30%, Final Acc: 79.77%
+----------------------------------------------------------------------
+Epoch 18/20
+Train Exit1 Acc: 21.74%, Exit2 Acc: 56.63%, Final Acc: 83.66%
+Test  Exit1 Acc: 21.87%, Exit2 Acc: 56.34%, Final Acc: 80.08%
+----------------------------------------------------------------------
+Epoch 19/20
+Train Exit1 Acc: 22.31%, Exit2 Acc: 57.90%, Final Acc: 84.35%
+Test  Exit1 Acc: 22.85%, Exit2 Acc: 57.42%, Final Acc: 80.29%
+----------------------------------------------------------------------
+Epoch 20/20
+Train Exit1 Acc: 22.79%, Exit2 Acc: 59.11%, Final Acc: 84.77%
+Test  Exit1 Acc: 22.74%, Exit2 Acc: 58.02%, Final Acc: 80.57%
+----------------------------------------------------------------------
