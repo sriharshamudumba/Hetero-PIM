@@ -27,7 +27,8 @@ This project implements and evaluates **BranchyNet-style Early Exit architecture
 
 ## 🧠 Entropy-based Early Exits
 
-Each exit branch computes entropy of its softmax output:
+Each exit branch computes entropy of its softmax output with C being the number of classes and p being the probablity from the softmax function
 
 ```math
 H(y) = -\sum_{i=1}^{C} p_i \log(p_i)
+
